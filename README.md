@@ -38,4 +38,65 @@
   </div>
   
 </body>
+
+
+*{
+    background-color:#050A30;
+    margin: "0";
+    padding: "0";
+    color: #7ec8e3;
+    font-size: large;
+
+}
+header{
+   text-size-adjust: 20px;
+  margin-left: 0px;
+  text-decoration: none;
+
+}
+
+i{
+text-align: initial;
+
+ color: red; 
+   
+}
+
+a{
+  text-align: left;
+  font-weight: bold;
+  margin-left: 40px;
+  text-decoration:none;
+
+}
+input{
+  margin-left: 40px;
+  width: 800px;
+  border-radius: 50px;
+  
+}
+i{
+  margin-left: 40px;
+}
+nav{
+  justify-content: space-evenly;
+}
+
+.second{
+  width: 200px;
+  height: 100px;
+}
+/**information**/
+.information{
+  margin-top: 60px;
+
+}
+img{
+  margin-left: 20px;
+  margin-top: 30px;
+  border: 2px,solid,purple;
+  border-radius: 25px;
+  justify-content: space-around;
+}
+
      
